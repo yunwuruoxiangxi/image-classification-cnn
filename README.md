@@ -1,4 +1,4 @@
-# Places365 Scene Classification Project
+# cifar-10 Scene Classification Project
 
 ## 📚 Course Information
 - **Course**: Intelligent Visual Signal Understanding

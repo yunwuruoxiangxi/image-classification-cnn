@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+env/
+envs/
+miniconda3/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 数据文件（太大，不上传）
+data/cifar-10-batches-py/
+data/cifar-10-python.tar.gz
+src/data/cifar-10-batches-py/
+src/data/cifar-10-python.tar.gz
+data/raw/
+data/processed/
+data/.cache/
+
+# 模型文件
+models/*.pth
+models/*.pt
+src/models/*.pth
+
+# 实验结果（JSON 可以上传，但大文件不上传）
+experiments/logs/
